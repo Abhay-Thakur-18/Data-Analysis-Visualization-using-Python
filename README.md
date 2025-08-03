@@ -31,6 +31,4 @@ Python | Pandas | Matplotlib | Seaborn | Plotly | Data Analysis | Data Visualiza
 
 This project improved my ability to transform raw data into actionable insights and present them visually in a clear, impactful way.
 
-📂 Project Document: [Attach your PDF here]
-
-#DataAnalytics #Python #COVID19 #DataVisualization #MachineLearning #Pandas #Matplotlib #S
+Join me on LinkedIn : https://www.linkedin.com/posts/abhay-pratap-singh-data-analyst_covid-19-data-analysis-visualization-activity-7357803894011285504-y3jU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFMTrxEB_seqbeEjNfyKVVsVpxWPkp89E9A
